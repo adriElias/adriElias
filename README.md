@@ -1,21 +1,25 @@
-HELLO, 👋
+HELLO, 👋🏿
 
 #1 I´m Yana Killa
 
-emoticono![me]
+👩🏿 I'M ADRIANA ELÍAS
 
 <!--
 **adriElias/adriElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚙️ I’m currently studying web application Development.
+- 👩🏿‍💻 I'm an app Designer.
+- 🎨🏐 Passionate about art and sport.
+- 🖤 Active volunteer.
+- 🐯 Animal lover.
+- 🚌🛩 Travel lover.
+
+- ✉️ contact me
+Portfolio: https://adrielias.github.io/
+LinkedIn: Adriana Elías Vigabriel
+Twitter: @AdriElias72
+
+
 -->
-by Adriana Elías
+by Adri Elías
