@@ -4,8 +4,6 @@ HELLO, 👋🏿
 
 👩🏿 I'M ADRIANA ELÍAS
 
-<!--
-**adriElias/adriElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - ⚙️ I’m currently studying web application Development.
@@ -20,6 +18,4 @@ Portfolio: https://adrielias.github.io/
 LinkedIn: Adriana Elías Vigabriel
 Twitter: @AdriElias72
 
-
--->
 by Adri Elías
