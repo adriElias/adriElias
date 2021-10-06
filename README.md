@@ -7,7 +7,7 @@ HELLO, 👋🏿
 
 
 - ⚙️ I’m currently studying web application Development.
-- 👩🏿‍💻 I'm an app Designer.
+- 👩🏿‍💻 I'm an App Designer.
 - 🎨🏐 Passionate about art and sport.
 - 🖤 Active volunteer.
 - 🐯 Animal lover.
