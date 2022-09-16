@@ -2,7 +2,7 @@ HELLO, 👋🏿
 
 #1 I´m Yana Killa
 
-👩🏿 I'M ADRIANA ELÍAS
+👩🏿 🦇🏿 I'M ADRIANA ELÍAS
 
 
 
@@ -12,10 +12,11 @@ HELLO, 👋🏿
 - 🖤 Active volunteer.
 - 🐯 Animal lover.
 - 🚌🛩 Travel lover.
+- 🌵 Vegan life.
 
 - ✉️ contact me
-Portfolio: https://adrielias.github.io/
+Portfolio: https://adrielias.github.io/Portfolio/
 LinkedIn: Adriana Elías Vigabriel
 Twitter: @AdriElias72
 
-by Adri Elías
+by 💀Adri Elías
