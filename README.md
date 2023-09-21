@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/aN9GqoR7OD3nq/giphy.gif)
+
 HELLO, 👋🏿
 
 #1 I´m Yana Killa
